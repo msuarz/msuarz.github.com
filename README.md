@@ -1,4 +1,4 @@
-<div style="float: left;"><img style="float: left;" height="100" alt="msuarz" src="img/minime.png" /></div>
+<img align="right" height="100" src="img/minime.png" />
 
 ### Maykel Suarez  
 1200 Brickell Bay Dr PH4202, Miami, FL 33131  
