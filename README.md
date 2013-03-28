@@ -5,7 +5,7 @@
 -
 
 ### Experience
-`Jun 2008` **Ultimate Software**, Weston, FL - Programmer. Contributed to many teams and projects spanning from devops and end-user facing to core and architectural.
+`Jun 2008` **[Ultimate Software](http://www.ultimatesoftware.com)**, Weston, FL - Programmer. Contributed to many teams and projects spanning from devops and end-user facing to core and architectural.
 *	Designed a Hypermedia service that connected the object model with a rules engine.
 *	Debugged and refactored an effective dating implementation on Mongo.
 *	Automated the deployment on AWS and OpenStack with Chef and Ruby.
@@ -15,7 +15,7 @@
 *	Improved end-to-end tests quality with Cucumber and Fitnesse.
 *	Created, wrapped or improved mock frameworks in C#, Ruby and Delphi.
 
-`2004 - 2008`	**Alienware**, Miami, FL - Programmer. Started supporting internal tools. Became a key player adapting Agile ideas while delivering successful apps to customers.
+`2004 - 2008`	**[Alienware](http://www.alienware.com)**, Miami, FL - Programmer. Started supporting internal tools. Became a key player adapting Agile ideas while delivering successful apps to customers.
 *	Optimized the factory process reducing the integration time per PC by 25 percent.
 *	Helped founding a new breadth of WPF apps that gained praise in magazine reviews and was expanded into the Dell branding.
 *	Reengineered a legacy C++ account manager system into C# in four months. Lead the team to deliver simultaneously WinForm and ASP.NET clients.
@@ -24,9 +24,9 @@
 *	Created a custom workflow engine for Sharepoint.
 
 ###Contracts
-`2007-2008`	www.e-spare.ca. Developed a Java web app with a distributed team (Miami/Toronto).  
-`2002-2003`	University of Miami, FL. Developed a budget tracking app in VB for the Admission Office.  
-`2001-2002`	www.grocerytaxi.com, Miami, FL. Migrated the website from HTML to classic ASP.  
+`2007-2008`	**[e-spare](www.e-spare.ca)**. Developed a Java web app with a distributed team (Miami/Toronto).  
+`2002-2003`	**[University of Miami](http://www.miami.edu)**, FL. Developed a budget tracking app in VB for the Admission Office.  
+`2001-2002`	[grocerytaxi.com](www.grocerytaxi.com), Miami, FL. Migrated the website from HTML to classic ASP.  
 `1998-2000`	Panautos, Havana, Cuba. Created the app used to rent the cars Delphi/MSSQL.  
 
 ###Open Source
