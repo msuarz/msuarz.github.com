@@ -8,6 +8,7 @@ Which in a way should give an idea of whom I am.
 
 There's a lot of computer stuff since I consider myself a natural born programmer.
 ```
-<br />  
+<h2 align=right>
+  <a href="https://github.com/msuarz/msuarz.github.com/wiki/_pages">more ...</a>
+</h2>
 -
-###   [more ...](https://github.com/msuarz/msuarz.github.com/wiki/_pages)
