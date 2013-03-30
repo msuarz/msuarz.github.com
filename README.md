@@ -9,4 +9,4 @@ Which in a way should give an idea of whom I am.
 There's a lot of computer stuff since I consider myself a natural born programmer.
 ```
 
-<a href="_pages" class="minibutton bigger action-view-page">more ...</a>
+[more ...](https://github.com/msuarz/msuarz.github.com/wiki/_pages)
