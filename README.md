@@ -11,4 +11,3 @@ There's a lot of computer stuff since I consider myself a natural born programme
 <h2 align=right>
   <a href="https://github.com/msuarz/msuarz.github.com/wiki/_pages">more ...</a>
 </h2>
--
