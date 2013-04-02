@@ -1,6 +1,5 @@
 ---
 layout: default
-title: msuarz - Mike Suarez
 ---
 
 Hi there, I'm Mike Suarez.
