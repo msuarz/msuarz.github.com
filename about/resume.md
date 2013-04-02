@@ -3,8 +3,8 @@ layout: default
 ---
 
 ### Maykel Suarez
-1200 Brickell Bay Dr PH4202, Miami, FL 33131
-(786) 797-3547 mikemps@gmail.com
+1200 Brickell Bay Dr PH4202, Miami, FL 33131  
+(786) 797-3547 mikemps@gmail.com  
 
 -
 
