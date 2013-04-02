@@ -5,3 +5,7 @@ body {
 .muted {
     /*background-color: white;*/
 }
+
+code {
+    vertical-align: middle;
+}
