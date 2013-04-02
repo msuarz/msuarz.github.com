@@ -2,7 +2,11 @@
 layout: default
 ---
 
-### Maykel Suarez
+<h3> 
+    Maykel Suarez &nbsp;
+    <a href="/resume_msuarz.pdf" class="btn btn-small"> <i class="icon-download">&nbsp;</i> PDF </a>
+    <a href="/resume_msuarz.doc" class="btn btn-small"> <i class="icon-download">&nbsp;</i> DOC </a>
+</h3>
 
 1200 Brickell Bay Dr PH4202, Miami, FL 33131  
 (786) 797-3547 mikemps@gmail.com    
