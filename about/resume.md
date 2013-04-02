@@ -35,13 +35,13 @@ layout: default
 `1998-2000`	[Panautos:](http://www.cuba.cu/turismo/panatrans/panautos.htm) Created the app used to rent the cars Delphi/MSSQL.  
 
 ###Open Source
-`2013` [Frankendoc:](https://github.com/limadelic/frankendoc) Brings documents alive.
-`2012` [Datomicjs:](https://github.com/limadelic/datomicjs) Javascript driver for Datomic.
-`2012` [Decaf:](https://github.com/limadelic/decaf) Official Fitnesse/Slim port to CoffeeScript.
-`2011` [Figaro:](https://github.com/limadelic/figaro) RESTful Ruby Slim.
-`2010` [Raconteur:](http://raconteur.github.com/) Acceptance test framework for C#.
-`2008` [FluentSpec:](http://fluentspec.codeplex.com/) C# mock framework with BDD flavor.
+`2013` [Frankendoc:](https://github.com/limadelic/frankendoc) Brings documents alive.  
+`2012` [Datomicjs:](https://github.com/limadelic/datomicjs) Javascript driver for Datomic.  
+`2012` [Decaf:](https://github.com/limadelic/decaf) Official Fitnesse/Slim port to CoffeeScript.  
+`2011` [Figaro:](https://github.com/limadelic/figaro) RESTful Ruby Slim.  
+`2010` [Raconteur:](http://raconteur.github.com/) Acceptance test framework for C#.  
+`2008` [FluentSpec:](http://fluentspec.codeplex.com/) C# mock framework with BDD flavor.  
 
 ###Education
-`2001-2003`	University of Miami, FL – BS Computer Science.
-`1994-2000`	University of Havana, Cuba – BS Computer Science.
+`2001-2003`	University of Miami, FL – BS Computer Science.  
+`1994-2000`	University of Havana, Cuba – BS Computer Science.  
