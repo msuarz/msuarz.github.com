@@ -2,10 +2,11 @@ body {
     /*background: url("/img/background.gif") repeat;*/
 }
 
-.muted {
-    /*background-color: white;*/
-}
-
 code {
     vertical-align: middle;
+}
+
+#home-icons a {
+    vertical-align: middle;
+    padding: 0;
 }
