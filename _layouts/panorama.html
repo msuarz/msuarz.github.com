@@ -1,0 +1,39 @@
+---
+layout: default
+
+places:
+  - title: miami
+    pic: https://lh6.googleusercontent.com/-fgokXK9AadA/UV-AW7mSYbI/AAAAAAAABIA/DtNhgYsODRs/s791/Miami8.jpg
+  - title: italy
+    pic: https://lh3.googleusercontent.com/-iXRFVhuxx-A/UV-A6NvYYUI/AAAAAAAABLo/JmDdVIoklhc/s791/riomaggiore.jpg
+  - title: france
+    pic: https://lh3.googleusercontent.com/-vHCpm5Mpsxw/UV-A53YXq1I/AAAAAAAABLk/4gGcXbgj7_o/s791/louvre.jpg
+  - title: spain
+    pic: https://lh3.googleusercontent.com/-x9cZW3NneFU/UWB0WWwD5gI/AAAAAAAABPg/5kXXSPd6Gco/s790/madrid.jpg
+  - title: ny
+    pic: https://lh4.googleusercontent.com/-zDuGPot-VmM/UV-A5YSKChI/AAAAAAAABLc/PlfNP3JQuJ0/s791/NYH5.jpg
+---
+
+<div id="panorama_menu" class="carousel slide">
+    <div class="carousel-inner">
+        {%for place in page.places %}
+        {% if place == page.places.first %}
+        <a href="/pics/{{ place.title }}.html" class="item active">
+            {%else%}
+            <a href="/pics/{{ place.title }}.html" class="item">
+                {%endif%}
+                <img alt="{{ place.title }}" src="{{place.pic}}">
+
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>{{ place.title }}</h1>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+    </div>
+    <a class="left carousel-control" href="#panorama_menu" data-slide="prev">‹</a>
+    <a class="right carousel-control" href="#panorama_menu" data-slide="next">›</a>
+</div>
+
+
