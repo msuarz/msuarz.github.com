@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div id="images" class="carousel slide">
+    <div class="carousel-inner">
+        {%for image in page.images %}
+
+            {% if image == page.images.first %}
+            <a href="{{ image.href }}" class="item active">
+            {%else%}
+            <a href="{{ image.href }}" class="item">
+            {%endif%}
+                
+                <img alt="{{ image.title }}" src="{{ image.src }}" />
+
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>{{ image.title }}</h1>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+    <a class="left carousel-control" href="#images" data-slide="prev">‹</a>
+    <a class="right carousel-control" href="#images" data-slide="next">›</a>
+</div>
+
+
