@@ -10,7 +10,7 @@ images:
     href: https://www.dropbox.com/s/sg1xdmmb0ry3v1m/las_nieves.jpg
   - title: las palmas
     src: /img/panorama/spain/las_palmas.jpg
-    https://www.dropbox.com/s/rsnvua01ik2wkmg/las_palmas.jpg
+    href: https://www.dropbox.com/s/rsnvua01ik2wkmg/las_palmas.jpg
   - title: acueducto de segovia
     src: /img/panorama/spain/acueducto_de_segovia.jpg
     href: https://www.dropbox.com/s/dp8k9mmee2c8gzh/segovia05.png
