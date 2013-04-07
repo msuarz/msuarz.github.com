@@ -17,8 +17,8 @@ images:
   - title: south beach
     src: /img/panorama/miami/south_beach.jpg
     href: https://www.dropbox.com/s/37hq703bay1knv6/Miami14.jpg
-  - title: brickell brigde
-    src: /img/panorama/miami/brickell_brigde.jpg
+  - title: brickell bridge
+    src: /img/panorama/miami/brickell_bridge.jpg
     href: https://www.dropbox.com/s/zzec5aa1nk4s7ez/Miami6.jpg
 
 ---
