@@ -11,5 +11,8 @@ images:
   - title: france
     src: /img/panorama/france/louvre.jpg
     href: /pics/france.html
+  - title: spain
+    src: /img/panorama/spain/segovia.jpg
+    href: /pics/spain.html
 
 ---
