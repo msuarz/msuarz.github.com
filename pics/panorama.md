@@ -3,7 +3,7 @@ layout: carousel
 
 images:
   - title: miami
-    src: /img/panorama/miami/brickell_brigde.jpg
+    src: /img/panorama/miami/brickell_bridge.jpg
     href: /pics/miami.html
   - title: italy
     src: /img/panorama/italy/riomaggiore.jpg
