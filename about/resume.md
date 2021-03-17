@@ -35,13 +35,15 @@ layout: default
 *	Defined the team’s methodology mixing XP, Scrum and Crystal Clear.
 *	Successfully introduced TDD with MSTest in the company.
 
-###Contracts
+### Contracts
+
 `2007-2008`	[e-Spare:](http://www.e-spare.ca) Developed a Java web app with a distributed team (Miami/Toronto).    
 `2002-2003`	[University of Miami:](http://www.miami.edu) Developed a budget tracking app in VB for the Admission Office.    
 `2001-2002`	[Grocerytaxi:](http://www.grocerytaxi.com) Migrated the website from HTML to classic ASP.  
 `1998-2000`	[Panautos:](http://www.cuba.cu/turismo/panatrans/panautos.htm) Created the app used to rent the cars Delphi/MSSQL.  
 
-###Open Source
+### Open Source
+
 `2018` [Corals:](https://github.com/limadelic/corals) Sentient data structures.  
 `2015` [www.doble9.com:](http://www.doble9.com) Proper dominoes.  
 `2013` [Frankendoc:](https://github.com/limadelic/frankendoc) Brings documents alive.  
@@ -50,6 +52,7 @@ layout: default
 `2010` [Raconteur:](http://raconteur.github.com/) Acceptance test framework for C#.  
 `2008` [FluentSpec:](http://fluentspec.codeplex.com/) C# mock framework with BDD flavor.  
 
-###Education
+### Education
+
 `2001-2003`	University of Miami, FL – BS Computer Science.  
 `1994-2000`	University of Havana, Cuba – BS Computer Science.  
