@@ -11,10 +11,10 @@ layout: default
 1200 Brickell Bay Dr PH4202, Miami, FL 33131  
 (786) 797-3547 mikemps@gmail.com    
 
--
+***
 
 ### Experience
-`2008-present` [Ultimate Software:](http://www.ultimatesoftware.com) Contributed to many teams and projects spanning from devops and end-user facing to core and architectural.
+`2008-present` [UKG:](http://www.ukg.com) Contributed to many teams and projects spanning from devops and end-user facing to core and architectural.
 
 *	Founded rCloud allowing teams to deploy and test Ultipro in multiple clouds with Chef.
 *	Coined and designed HALO, the Angular reactive SPA frontend for rCloud.
