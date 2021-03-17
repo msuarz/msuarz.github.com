@@ -36,14 +36,12 @@ layout: default
 *	Successfully introduced TDD with MSTest in the company.
 
 ###Contracts
-
 `2007-2008`	[e-Spare:](http://www.e-spare.ca) Developed a Java web app with a distributed team (Miami/Toronto).    
 `2002-2003`	[University of Miami:](http://www.miami.edu) Developed a budget tracking app in VB for the Admission Office.    
 `2001-2002`	[Grocerytaxi:](http://www.grocerytaxi.com) Migrated the website from HTML to classic ASP.  
 `1998-2000`	[Panautos:](http://www.cuba.cu/turismo/panatrans/panautos.htm) Created the app used to rent the cars Delphi/MSSQL.  
 
 ###Open Source
-
 `2018` [Corals:](https://github.com/limadelic/corals) Sentient data structures.  
 `2015` [www.doble9.com:](http://www.doble9.com) Proper dominoes.  
 `2013` [Frankendoc:](https://github.com/limadelic/frankendoc) Brings documents alive.  
