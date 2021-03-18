@@ -16,11 +16,12 @@ layout: default
 ### Experience
 `2008-present` [UKG:](http://www.ukg.com) Contributed to many teams and projects spanning from devops and end-user facing to core and architectural.
 
-*	Founded rCloud allowing teams to deploy and test Ultipro in multiple clouds with Chef.
-*	Coined and designed HALO, the Angular reactive SPA frontend for rCloud.
-*	Distilled the business rules discovering an internal DSL called Corals.
-*	Applied DDD and BDD practices in the development process.
-*	Enhanced team collaboration via pair and mob programming.
+*	Founded rCloud, allowing teams to deploy UKGPro in ESX, Openstack and GCP.
+*	Designed HALO, the Angular reactive SPA frontend for rCloud.
+*	Migrated rCloud from VMs with Chef into Docker and Kubernetes.
+*	Refactored the monolithic Rails app into several REST API microservices.
+*	Applied DDD, distilling the business rules by discovering a DSL called Corals.
+*	Enhanced team collaboration with BDD, pair and mob programming.
 *	Automated all things via TeamCity pipelines in Kotlin, achieving CI/CD.
 *	Evolved beyond TDD by adopting and evangelizing TCR.
 *	Improved end-to-end tests quality with Cucumber and Fitnesse.
@@ -28,7 +29,7 @@ layout: default
 
 `2004-2008`	[Alienware:](http://www.alienware.com) Started supporting internal tools. Became a key player adapting Agile ideas while delivering successful apps to customers.
 
-*	Refactored the PC provisioning process reducing the installation time by 25 percent..
+*	Optimized the PC provisioning process reducing the installation time by 25 percent..
 *	Helped founding a new breadth of WPF apps that were used by Dell.
 *	Reengineered a legacy C++ account manager system into C# in four months.
 *	Lead the team to deliver simultaneously WinForm and ASP.NET clients.
@@ -37,7 +38,6 @@ layout: default
 
 ### Contracts
 
-`2007-2008`	[e-Spare:](http://www.e-spare.ca) Developed a Java web app with a distributed team (Miami/Toronto).    
 `2002-2003`	[University of Miami:](http://www.miami.edu) Developed a budget tracking app in VB for the Admission Office.    
 `2001-2002`	[Grocerytaxi:](http://www.grocerytaxi.com) Migrated the website from HTML to classic ASP.  
 `1998-2000`	[Panautos:](http://www.cuba.cu/turismo/panatrans/panautos.htm) Created the app used to rent the cars Delphi/MSSQL.  
