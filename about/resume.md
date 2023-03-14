@@ -27,9 +27,11 @@ layout: default
 *   Switched inter-services restful communication to event driven with RabbitMQ.  
 *	Applied DDD, distilling the business rules by discovering a DSL called Corals.
 *	Enhanced remote team collaboration with BDD, pair and mob programming.
+*   Created, wrapped or improved mock frameworks in C#, Ruby and Delphi.
 *	Automated all things via TeamCity pipelines in Kotlin, achieving CI/CD.
 *   Converted TeamCity pipelines into Github Actions.
 *	Evolved beyond TDD by adopting and evangelizing TCR.
+*   Coached and facilitated XP, SCRUM, Kanban and SAFE adoptions.
 
 `2004-2008`	[Alienware:](http://www.alienware.com) Software Engineer in Alienlabs.
 (C#, C++, ASP.Net, WPF, MSSQL)
