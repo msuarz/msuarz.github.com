@@ -14,28 +14,27 @@ layout: default
 ***
 
 ### Experience
-`2008-present` [UKG:](http://www.ukg.com) Tech Lead in Recruiting.
-(C#, NodeJS, Ruby, NetCore, Angular, React, RabbitMQ, Kafka, MongoDB)
+`2008-present` [UKG:](http://www.ukg.com) Principal Software Engineer in Recruiting.
+(C#, NodeJS, Ruby, NetCore, Angular, React, RabbitMQ, Kafka, MongoDB, MSSQL)
 
 *   Delivered Indeed's integration on time constrain applying Lean Startup principles.
 *   Containerized REC by migrating it to netcore and deploying to K8.
-*   Decoupled 
+*   Simplified services integration by publishing fat events on Kafka Streams. 
 *	Founded rCloud, allowing teams to deploy UKGPro in ESX, Openstack and GCP.
 *	Designed HALO, the Angular reactive SPA frontend for rCloud.
 *	Migrated rCloud from VMs with Chef into Docker and Kubernetes.
 *	Refactored the monolithic Rails app into several REST API microservices.
+*   Switched inter-services restful communication to event driven with RabbitMQ.  
 *	Applied DDD, distilling the business rules by discovering a DSL called Corals.
 *	Enhanced remote team collaboration with BDD, pair and mob programming.
 *	Automated all things via TeamCity pipelines in Kotlin, achieving CI/CD.
+*   Converted TeamCity pipelines into Github Actions.
 *	Evolved beyond TDD by adopting and evangelizing TCR.
-*	Improved end-to-end tests quality with Cucumber and Fitnesse.
-*	Created, wrapped or improved mock frameworks in C#, Ruby and Delphi.
 
 `2004-2008`	[Alienware:](http://www.alienware.com) Software Engineer in Alienlabs.
-(C#, C++, ASPNet, WPF, MSSQL)
+(C#, C++, ASP.Net, WPF, MSSQL)
 
 *	Optimized the PC provisioning process reducing the installation time by 25%.
-*	Helped founding a new breadth of WPF apps that were used by Dell.
 *	Reengineered a legacy C++ account manager system into C# in four months.
 *	Lead the team to deliver simultaneously WinForm and ASP.NET clients.
 *	Defined the team’s methodology mixing XP, Scrum and Crystal Clear.
