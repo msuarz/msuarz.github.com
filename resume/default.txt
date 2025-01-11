@@ -18,15 +18,6 @@ Skills
 
 Experience
 
-UKG - Principal Software Engineer: Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
-
-* Created the Lab, a virtual space for team collaboration where we daily tackle the hardest problems employing mob programming.
-* Delivered Indeed's integration on fixed time constrain of 3 months with Kanban techniques of limit work in progress, swarming on aging and Monte Carlo simulations to estimate.
-* Simplified microservices integration by publishing fat events on Kafka Streams reducing MongoDB usage by 10%.
-* Adopted Copilot into multiple development flows, TCR, TDD, BDD and Unit Testing.
-* Containerized the app migrating the deployment from vms on premise in Openstack to containers in GCP reducing the deployment time from 40 minutes to seconds.
-* Modernized the CI/CD pipeline migrating it from TeamCity to Github actions reducing the overall run time from over 5 hours to less than 1.
-
 **UKG - Principal Software Engineer** *(2020 – Present)*
 Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
 
