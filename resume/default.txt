@@ -6,16 +6,37 @@ Objective
 
 Highly creative and enthusiastic Software Engineer passionate about continuous learning. Seeking a position at a forward-thinking company that values high-quality code delivered at a sustainable yet challenging pace. Excels in delivering efficient solutions by shortening feedback cycles and minimizing waste to promote continuous improvement.
 
+Skills
+
+* Languages: C#, JavaScript, Typescript, Elixir, Ruby, Python, Kotlin, Java
+* Frameworks: .NET, nodejs, NextJS, Angular, React, Ruby on Rails
+* DevOps: GCP, Openstack, Docker, Kubernetes, Chef, Terraform, GitHub Actions, TeamCity, Jenkins
+* Tools: MSSQL, MongoDB, Kafka, RabbitMQ, Elasticsearch, Copilot, Postman
+* Methodologies: XP, Kanban, Scrum, SAFE, Lean Startup
+* Architectural Patterns & Practices: DDD, REST, Microservices, MVC, CQRS, Event Driven, DCI
+* Leadership & Collaboration: Team Leadership, Agile Coaching, Pair and Mob Programming, Frequent Presenter
+
 Experience
 
-UKG - Rec: Ulti merged with Kronos becoming UKG. I moved into Rec switching from a tech domain into a bussines specific.
+UKG - Principal Software Engineer: Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
 
-* Delivered Indeed's integration on time constrain applying Lean Startup principles.
-* Containerized REC by migrating it to NetCore and deploying to K8.
-* Simplified services integration by publishing fat events on Kafka Streams.
-* Enhanced remote team collaboration with BDD, pair and mob programming.
-* Evolved beyond TDD by adopting and evangelizing TCR.
-* Converted TeamCity pipelines into Github Actions.
+* Created the Lab, a virtual space for team collaboration where we daily tackle the hardest problems employing mob programming.
+* Delivered Indeed's integration on fixed time constrain of 3 months with Kanban techniques of limit work in progress, swarming on aging and Monte Carlo simulations to estimate.
+* Simplified microservices integration by publishing fat events on Kafka Streams reducing MongoDB usage by 10%.
+* Adopted Copilot into multiple development flows, TCR, TDD, BDD and Unit Testing.
+* Containerized the app migrating the deployment from vms on premise in Openstack to containers in GCP reducing the deployment time from 40 minutes to seconds.
+* Modernized the CI/CD pipeline migrating it from TeamCity to Github actions reducing the overall run time from over 5 hours to less than 1.
+
+**UKG - Principal Software Engineer** *(2020 – Present)*
+Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
+
+* Created the Lab, a virtual collaboration space where the team tackles complex problems using mob programming.
+* Delivered Indeed's integration within a strict 3-month deadline by utilizing Kanban techniques, limiting work in progress, swarming on aging tasks, and employing Monte Carlo simulations for estimation.
+* Simplified microservices integration by publishing fat events on Kafka Streams, reducing MongoDB usage by 10%.
+* Integrated Copilot into multiple development workflows, enhancing TCR, TDD, BDD, and unit testing practices.
+* Containerized the application by migrating deployments from on-premise VMs in OpenStack to containers in GCP, reducing deployment time from 40 minutes to mere seconds.
+* Modernized the CI/CD pipeline by transitioning from TeamCity to GitHub Actions, decreasing overall run time from over 5 hours to under 1 hour.
+
 
 Ulti - RCloud: Created my own team and project.
 
