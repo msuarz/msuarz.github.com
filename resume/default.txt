@@ -1,6 +1,4 @@
-Maykel Suarez
-1200 Brickell Bay Dr PH4202, Miami, FL 33131
-(786) 797-3547 mikemps@gmail.com
+Mike Suarez
 
 Objective
 
@@ -9,7 +7,7 @@ Highly creative and enthusiastic Software Engineer passionate about continuous l
 Skills
 
 * Languages: C#, JavaScript, Typescript, Elixir, Ruby, Python, Kotlin, Java
-* Frameworks: .NET, nodejs, NextJS, Angular, React, Ruby on Rails
+* Frameworks: .NET, Nodejs, Nest, Angular, React, Ruby on Rails
 * DevOps: GCP, Openstack, Docker, Kubernetes, Chef, Terraform, GitHub Actions, TeamCity, Jenkins
 * Tools: MSSQL, MongoDB, Kafka, RabbitMQ, Elasticsearch, Copilot, Postman
 * Methodologies: XP, Kanban, Scrum, SAFE, Lean Startup
@@ -18,7 +16,7 @@ Skills
 
 Experience
 
-**UKG - Principal Software Engineer** *(2020 – Present)*
+UKG - Principal Software Engineer (2020 – Present)
 Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
 
 * Created the Lab, a virtual collaboration space where the team tackles complex problems using mob programming.
@@ -28,29 +26,25 @@ Leading the Application team within the Recruiting product. Responsible for a te
 * Containerized the application by migrating deployments from on-premise VMs in OpenStack to containers in GCP, reducing deployment time from 40 minutes to mere seconds.
 * Modernized the CI/CD pipeline by transitioning from TeamCity to GitHub Actions, decreasing overall run time from over 5 hours to under 1 hour.
 
+Ultimate Software - Tech Lead (2014 – 2020)
+Embraced the DevOps movement by founding rCloud, a homebrewed PaaS platform, lifting a monolith from the '90s to the cloud.
 
-Ulti - RCloud: Created my own team and project.
+* Orchestrated UKGPro deployments on dynamic topologies in ESX, OpenStack, and GCP, reducing regression testing time from two months to one week.
+* Designed HALO, an Angular reactive SPA, increasing the adoption of the platform by 20%.
+* Organically grew the solution from a set of Rake tasks into a monolithic application, then modularized it into gems and a family of Ruby on Rails microservices around emerging Bounded Contexts.
+* Relentlessly applied Domain-Driven Design (DDD), distilling business rules until developing Corals, a domain-specific language (DSL) that enabled expressing the Core Domain in a declarative way.
 
-* Founded rCloud, allowing teams to deploy UKGPro in ESX, Openstack and GCP.
-* Designed HALO, the Angular reactive SPA frontend for rCloud.
-* Migrated rCloud from VMs with Chef into Docker and Kubernetes.
-* Refactored a Rails monolith into multiple microservices with REST APIs.
-* Switched inter-services restful communication to event driven with RabbitMQ.
-* Applied DDD, distilling the business rules by discovering a DSL called Corals.
-* Automated all things via TeamCity pipelines in Kotlin, achieving CI/CD.
-
-Ulti - Journeyman: Started in the infrastucture team. Switched around a lot looking for the best fit and a great company.
+Ultimate Software - Senior Software Engineer (2008 – 2014)
+Joined the Ulti family in the midst of the agile revolution. Helped multiple teams learn, adapt, and grow.
 
 * Coached and facilitated XP, SCRUM, Kanban and SAFE adoptions.
 * Created, wrapped or improved mock frameworks in C#, Ruby and Delphi.
 
-Alien - Lab: Switched from backend to a more experimental team. Working on software innovations to enhance the customer experience with the machines.
+Alienware - Software Engineer (2004 – 2008)
+Got abducted into the realm of machine assembly. Amped up processes, quality, and performance of software solutions geared toward elite hardware consumers.
 
 * Defined the team’s methodology mixing XP, Scrum and Crystal Clear.
 * Successfully introduced TDD with MSTest in the compan
-
-Alien - Factory: Signed up to migrate the Intranet into Sharepoint. Quickly took ownership of more backend processes. Became team leader for the backend team.
-
 * Optimized the PC provisioning process reducing the installation time by 25%.
 * Reengineered a legacy C++ account manager system into C# in four months.
 * Lead the team to deliver simultaneously WinForm and ASP.NET clients.
