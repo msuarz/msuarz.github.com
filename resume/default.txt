@@ -17,7 +17,7 @@ Skills
 Experience
 
 UKG - Principal Software Engineer (2020 – Present)
-Leading the Application team within the Recruiting product. Responsible for a team of 10 developers distributed across the US and Latin America.
+Ultimate Software merged with Kronos into a gigantic juggernaut to conquer the HRMS space. I took the helm of the Application team within the Recruiting module.
 
 * Created the Lab, a virtual collaboration space where the team tackles complex problems using mob programming.
 * Delivered Indeed's integration within a strict 3-month deadline by utilizing Kanban techniques, limiting work in progress, swarming on aging tasks, and employing Monte Carlo simulations for estimation.
