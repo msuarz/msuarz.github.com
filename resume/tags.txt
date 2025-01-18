@@ -48,11 +48,12 @@ Joined the Ulti family in the midst of the Agile revolution. Helped multiple tea
 Alienware - Software Engineer (2004 – 2008)
 Got abducted into the realm of machine assembly. Amped up processes, quality, and performance of software solutions geared toward elite hardware consumers.
 
-- Optimized the Alienfactory provisioning process, reducing assembly time per machine by 25%.
-- Introduced Agile by blending XP and Scrum, achieving immediate improvements in communication through daily standups and pair programming.
-- Mastered Test-Driven Development (TDD) by mentoring peers in AlienLabs, fostering camaraderie and team spirit, and reducing defect count on a greenfield project by 80% compared to manually tested projects.
-- Led the team to reengineer a legacy C++ account manager system into C# and simultaneously deliver WinForms and ASP.NET clients within four months.
-
+- Defined the team’s methodology mixing XP, Scrum and Crystal Clear.
+- Successfully introduced TDD with MSTest in the compan
+- Optimized the PC provisioning process reducing the installation time by 25%.
+- Reengineered a legacy C++ account manager system into C# in four months.
+- Lead the team to deliver simultaneously WinForm and ASP.NET clients.
+y.
 
 Open Source
 
