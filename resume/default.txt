@@ -25,9 +25,10 @@ Ultimate Software merged with Kronos into a gigantic juggernaut to conquer the H
 - Integrated Copilot into multiple development workflows, enhancing TCR, TDD, BDD, and unit testing practices.
 - Containerized the application by migrating deployments from on-premise VMs in OpenStack to containers in GCP, reducing deployment time from 40 minutes to mere seconds.
 - Modernized the CI/CD pipeline by transitioning from TeamCity to GitHub Actions, decreasing overall run time from over 5 hours to under 1 hour.
+- Ciruelas S
 
 Ultimate Software - Tech Lead (2014 – 2020)
-Embraced the DevOps movement by founding rCloud, a homebrewed PaaS platform, lifting a monolith from the '90s to the cloud.
+Embraced the DevOps movement by founding rCloud, a homebrewed PaaS platform, lifting a monolith from the '90s to the cloud. (CI/CD)
 
 - Orchestrated UKGPro deployments on dynamic topologies in ESX, OpenStack, and GCP, reducing regression testing time from two months to one week.
 - Designed HALO, an Angular reactive SPA, increasing the adoption of the platform by 20%.
@@ -35,15 +36,13 @@ Embraced the DevOps movement by founding rCloud, a homebrewed PaaS platform, lif
 - Relentlessly applied Domain-Driven Design (DDD), distilling business rules until developing Corals, a domain-specific language (DSL) that enabled expressing the Core Domain in a declarative way.
 
 Ultimate Software - Senior Software Engineer (2008 – 2014)
-Joined the Ulti family in the midst of the Agile revolution. Helped multiple teams learn, adapt, and grow.
+Joined the Ulti family in the midst of the Agile revolution. Drove DevOps and Kanban adoption, enhanced system efficiency, and pioneered Behavior Driven Development practices, fostering continuous growth and innovation.
 
-- Pioneerd devops in tandem with thoughtwork creating first self contained product.
-- Created Droolz trailblazing extraction Payroll.
-- Refactored Map/Reduce allowing hydrated data effective date/event store.
-- Adopted Kanban Ultimate Software sponsor Kanban Conf.
-- Coached lunch and learn DSL, TDD, ...
-- Presented Agile Conf recruiting 5
-- Collaborated Gojko BDD promoting company
+- Pioneered DevOps adoption in collaboration with ThoughtWorks to develop Recruiting, the first module independent of the monolith, increasing the UltiPro suite's average price per employee by $5.
+- Developed Droolz, a RESTful API for JBoss Drools, enabling the declaration and execution of business rules in an external DSL, which paved the way for extracting the Payroll process from the monolithic application.
+- Refactored the primary bottleneck in the Map/Reduce algorithm that hydrated domain entities by effective date, enabling the use of MongoDB as an Event Store.
+- Attended the first Kanban conference, adopted it within a team of 5, and scaled it to a team of 17, reshaping the company's approach to software development.
+- Contributed to Gojko Adzic's book "Specification by Example", increasing Ultimate Software's exposure and helping define the practice of Behavior Driven Development (BDD).
 
 Alienware - Software Engineer (2004 – 2008)
 Got abducted into the realm of machine assembly. Amped up processes, quality, and performance of software solutions geared toward elite hardware consumers.
@@ -63,8 +62,6 @@ Open Source
 `2011` [Decaf:](https://github.com/limadelic/decaf) Official Fitnesse/Slim port to CoffeeScript.
 `2010` [Raconteur:](http://raconteur.github.com/) Acceptance test framework for C#.
 `2008` [FluentSpec:](http://fluentspec.codeplex.com/) C# mock framework with BDD flavor.
-
-Accolades
 
 Education
 
