@@ -25,6 +25,7 @@ Ultimate Software merged with Kronos into a gigantic juggernaut to conquer the H
 - Integrated Copilot into multiple development workflows, enhancing TCR, TDD, BDD, and unit testing practices.
 - Containerized the application by migrating deployments from on-premise VMs in OpenStack to containers in GCP, reducing deployment time from 40 minutes to mere seconds.
 - Modernized the CI/CD pipeline by transitioning from TeamCity to GitHub Actions, decreasing overall run time from over 5 hours to under 1 hour.
+- Ciruelas
 
 Ultimate Software - Tech Lead (2014 – 2020)
 Embraced the DevOps movement by founding rCloud, a homebrewed PaaS platform, lifting a monolith from the '90s to the cloud.
