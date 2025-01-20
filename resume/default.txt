@@ -54,11 +54,18 @@ Got abducted into the realm of machine assembly. Amped up processes, quality, an
 
 Open Source
 
-Cupid0
-Corals Sentient data structures.
-Raconteur Acceptance test framework for C#.
-Decaf Official Fitnesse/Slim port to CoffeeScript.
-FluentSpec C# mock framework with BDD flavor.
+Cupid0: AI-powered job seeking agent. Automates job hunting by using AI to rate opportunities and tailor resumes. If you are reading this, Cupid0 has perfectly matched you with your ideal candidate.
+
+Corals: Sentient data structures. A DSL that facilitates declarative, data-driven coding. Used to extract business rules and represent them as structured data within the company.
+
+DatomicJS: Javascript driver for the Datomic database. Amidst the rise of React, Redux, ReactiveJS and Immutable.js I forsook a more pure functional immutable javascript. Consequently, I made the most promising immutable database available to the JavaScript community.
+
+Raconteur: Acceptance test framework for Visual Studio. Allows writing natural language specifications and converting them into XUnit tests. It's my most polished project, featuring multiple demos including a presentation at AgileConf.
+
+Decaf: JavaScript driver for Slim coded in CoffeeScript. Slim is the protocol used to communicate with Fitness, the most influential acceptance testing framework created by Uncle Bob, one of the original Agile manifesto signatories.
+
+FluentSpec: C# mock framework featuring a fluent DSL with BDD-inspired given/when/then syntax, offering cleaner and more expressive alternatives to RhinoMocks and Moq. Enhanced team testing practices until the adoption of NSubstitute.
+
 
 Education
 
