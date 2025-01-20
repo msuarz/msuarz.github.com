@@ -14,7 +14,7 @@ Skills
 - Architectural Patterns & Practices: DDD, REST, Microservices, MVC, CQRS, Event Driven, DCI
 - Leadership & Collaboration: Team Leadership, Agile Coaching, Pair and Mob Programming, Frequent Presenter
 
-Experience
+Work Experience
 
 UKG - Principal Software Engineer (2020 – Present)
 Ultimate Software merged with Kronos into a gigantic juggernaut to conquer the HRMS space. I took the helm of the Application team within the Recruiting module.
@@ -51,23 +51,18 @@ Got abducted into the realm of machine assembly. Amped up processes, quality, an
 - Mastered Test-Driven Development (TDD) by mentoring peers in AlienLabs, fostering camaraderie and team spirit, and reducing defect count on a greenfield project by 80% compared to manually tested projects.
 - Led the team to reengineer a legacy C++ account manager system into C# and simultaneously deliver WinForms and ASP.NET clients within four months.
 
+Open Source Experience
 
-Open Source
+Limadelic - Owner (2020 – Present)
+Founded a GitHub organization hosting 28 diverse projects over 15+ years. Collaborated with 8 contributors to create solutions spanning Twitter clients, board games, test frameworks, and programming languages.
 
-Cupid0: AI-powered job seeking agent. Automates job hunting by using AI to rate opportunities and tailor resumes. If you are reading this, Cupid0 has perfectly matched you with your ideal candidate.
-
-Corals: Sentient data structures. A DSL that facilitates declarative, data-driven coding. Used to extract business rules and represent them as structured data within the company.
-
-DatomicJS: Javascript driver for the Datomic database. Amidst the rise of React, Redux, ReactiveJS and Immutable.js I forsook a more pure functional immutable javascript. Consequently, I made the most promising immutable database available to the JavaScript community.
-
-Raconteur: Acceptance test framework for Visual Studio. Allows writing natural language specifications and converting them into XUnit tests. It's my most polished project, featuring multiple demos including a presentation at AgileConf.
-
-Decaf: JavaScript driver for Slim coded in CoffeeScript. Slim is the protocol used to communicate with Fitness, the most influential acceptance testing framework created by Uncle Bob, one of the original Agile manifesto signatories.
-
-FluentSpec: C# mock framework featuring a fluent DSL with BDD-inspired given/when/then syntax, offering cleaner and more expressive alternatives to RhinoMocks and Moq. Enhanced team testing practices until the adoption of NSubstitute.
-
+- Cupid0: AI-powered job seeking agent. Automates job hunting by using AI to rate opportunities and tailor resumes. If you are reading this, Cupid0 has perfectly matched you with your ideal candidate.
+- Corals: Sentient data structures. A DSL that facilitates declarative, data-driven coding. Used to extract business rules and represent them as structured data within the company.
+- DatomicJS: Javascript driver for the Datomic database. Amidst the rise of React, Redux, ReactiveJS and Immutable.js I forsook a more pure functional immutable javascript. Consequently, I made the most promising immutable database available to the JavaScript community.
+- Raconteur: Acceptance test framework for Visual Studio. Allows writing natural language specifications and converting them into XUnit tests. It's my most polished project, featuring multiple demos including a presentation at AgileConf.
+- Decaf: JavaScript driver for Slim coded in CoffeeScript. Slim is the protocol used to communicate with Fitness, the most influential acceptance testing framework created by Uncle Bob, one of the original Agile manifesto signatories.
+- FluentSpec: C# mock framework featuring a fluent DSL with BDD-inspired given/when/then syntax, offering cleaner and more expressive alternatives to RhinoMocks and Moq. Enhanced team testing practices until the adoption of NSubstitute.
 
 Education
 
-`2001-2003`    University of Miami, FL – BS Computer Science.
-`1994-2000`    University of Havana, Cuba – BS Computer Science.  
+University of Miami, FL – BS in Computer Science
