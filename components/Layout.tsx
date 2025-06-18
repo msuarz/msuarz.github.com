@@ -12,8 +12,8 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
       <Head>
         <title>{title}</title>
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-        <link href="/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="/css/msuarz.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
         <style jsx>{`
           body {
