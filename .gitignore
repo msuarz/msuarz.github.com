@@ -1,2 +1,18 @@
 .idea
 _site
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build outputs
+*.log
+
+# Local env files
+.env*.local
+
+# OS files
+.DS_Store

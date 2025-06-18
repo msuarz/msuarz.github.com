@@ -1,0 +1,12 @@
+body {
+    /*background: url("/img/background.gif") repeat;*/
+}
+
+code {
+    vertical-align: middle;
+}
+
+#home-icons a {
+    vertical-align: middle;
+    padding: 0;
+}
