@@ -5,11 +5,11 @@ export default function Resume() {
     <Layout title="Resume - msuarz">
       <h3> 
         Maykel Suarez &nbsp;
-        <a href="/resume_msuarz.pdf" className="btn btn-small"> 
-          <i className="icon-download">&nbsp;</i> PDF 
+        <a href="/resume_msuarz.pdf" className="btn btn-sm btn-primary"> 
+          📄 PDF 
         </a>
-        <a href="/resume_msuarz.doc" className="btn btn-small"> 
-          <i className="icon-download">&nbsp;</i> DOC 
+        <a href="/resume_msuarz.doc" className="btn btn-sm btn-primary"> 
+          📄 DOC 
         </a>
       </h3>
 

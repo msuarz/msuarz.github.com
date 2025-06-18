@@ -5,10 +5,11 @@ export default function Home() {
     <Layout>
       <br />
       <div className="row">
-        <div className="span3">
+        <div className="col-3">
           <img style={{ float: 'left' }} src="img/minime.png" />
         </div>
-        <div className="span8 alert alert-info">
+        <div className="col-8">
+          <div className="alert alert-info">
           <p>Hi there, I'm Mike Suarez. 🤖 Claude was here!</p>
           
           <p>
@@ -18,6 +19,7 @@ export default function Home() {
           </p>
 
           <p>There's a lot of computer stuff since I consider myself a natural born programmer.</p>
+          </div>
         </div>
       </div>
     </Layout>
