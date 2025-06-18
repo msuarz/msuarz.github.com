@@ -15,9 +15,9 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
-        <style jsx>{`
+        <style jsx global>{`
           body {
-            padding-top: 60px;
+            padding-top: 80px;
           }
         `}</style>
       </Head>
