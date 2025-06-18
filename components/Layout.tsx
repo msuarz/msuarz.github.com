@@ -12,8 +12,7 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
       <Head>
         <title>{title}</title>
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@2.3.2/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@2.3.2/css/bootstrap-responsive.min.css" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
         <style jsx>{`
@@ -23,67 +22,64 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
         `}</style>
       </Head>
       
-      <div className="navbar navbar-fixed-top">
-        <div className="navbar-inner">
-          <div className="container">
-            <div className="nav-collapse">
-              <ul className="nav">
-                <li className="dropdown">
-                  <a className="dropdown-toggle" data-toggle="dropdown" href="">
-                    about <b className="caret"></b>
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li><a className="muted">me</a></li>
-                    <li><a href="/about/resume">resume</a></li>
-                    <li><a>timeline</a></li>
-                  </ul>
-                </li>
-                <li><a href="/apps">apps</a></li>
-                <li><a target="_blank" href="http://msuarz.blogspot.com/">blog</a></li>
-                <li><a href="/talks">talks</a></li>
-                <li className="dropdown">
-                  <a className="dropdown-toggle" data-toggle="dropdown" href="">
-                    books <b className="caret"></b>
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li><a href="/books/epub">epub</a></li>
-                    <li><a href="/books/paper">paper</a></li>
-                  </ul>
-                </li>
-                <li><a href="/movies">movies</a></li>
-                <li className="dropdown">
-                  <a className="dropdown-toggle" data-toggle="dropdown" href="">
-                    pics <b className="caret"></b>
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li><a>lab</a></li>
-                    <li><a href="/pics/logopedia">logopedia</a></li>
-                    <li><a href="/pics/panorama">panorama</a></li>
-                  </ul>
-                </li>
-                <li className="dropdown">
-                  <a className="dropdown-toggle" data-toggle="dropdown" href="">
-                    social <b className="caret"></b>
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li><a target="_blank" href="https://github.com/msuarz">github</a></li>
-                    <li><a target="_blank" href="https://twitter.com/msuarz">twitter</a></li>
-                    <li><a target="_blank" href="http://linkedin.com/pub/maykel-suarez/3/680/651">linkedin</a></li>
-                  </ul>
-                </li>
-              </ul>
-              <ul className="nav pull-right" id="home-icons">
-                <li className="divider-vertical"></li>
-                <li>
-                  <a href="/">
-                    <img src="http://www.gravatar.com/avatar/d81623c49927f1335a4c9128d3d41857.png?s=32" alt="home" />
-                  </a>
-                </li>   
-              </ul>
-            </div>
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div className="container">
+          <div className="collapse navbar-collapse">
+            <ul className="navbar-nav me-auto">
+              <li className="nav-item dropdown">
+                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  about
+                </a>
+                <ul className="dropdown-menu">
+                  <li><span className="dropdown-item-text text-muted">me</span></li>
+                  <li><a className="dropdown-item" href="/about/resume">resume</a></li>
+                  <li><span className="dropdown-item-text">timeline</span></li>
+                </ul>
+              </li>
+              <li className="nav-item"><a className="nav-link" href="/apps">apps</a></li>
+              <li className="nav-item"><a className="nav-link" target="_blank" href="http://msuarz.blogspot.com/">blog</a></li>
+              <li className="nav-item"><a className="nav-link" href="/talks">talks</a></li>
+              <li className="nav-item dropdown">
+                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  books
+                </a>
+                <ul className="dropdown-menu">
+                  <li><a className="dropdown-item" href="/books/epub">epub</a></li>
+                  <li><a className="dropdown-item" href="/books/paper">paper</a></li>
+                </ul>
+              </li>
+              <li className="nav-item"><a className="nav-link" href="/movies">movies</a></li>
+              <li className="nav-item dropdown">
+                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  pics
+                </a>
+                <ul className="dropdown-menu">
+                  <li><span className="dropdown-item-text">lab</span></li>
+                  <li><a className="dropdown-item" href="/pics/logopedia">logopedia</a></li>
+                  <li><a className="dropdown-item" href="/pics/panorama">panorama</a></li>
+                </ul>
+              </li>
+              <li className="nav-item dropdown">
+                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  social
+                </a>
+                <ul className="dropdown-menu">
+                  <li><a className="dropdown-item" target="_blank" href="https://github.com/msuarz">github</a></li>
+                  <li><a className="dropdown-item" target="_blank" href="https://twitter.com/msuarz">twitter</a></li>
+                  <li><a className="dropdown-item" target="_blank" href="http://linkedin.com/pub/maykel-suarez/3/680/651">linkedin</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul className="navbar-nav">
+              <li className="nav-item">
+                <a className="nav-link" href="/">
+                  <img src="http://www.gravatar.com/avatar/d81623c49927f1335a4c9128d3d41857.png?s=32" alt="home" className="rounded" />
+                </a>
+              </li>   
+            </ul>
           </div>
         </div>
-      </div>
+      </nav>
 
       <div className="container">
         {children}
@@ -92,8 +88,7 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
         </footer>
       </div>
 
-      <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@2.3.2/js/bootstrap.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     </>
   )
 }
