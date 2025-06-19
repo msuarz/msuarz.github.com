@@ -15,7 +15,7 @@ export default function Home() {
               alt="thought cloud"
               style={{
                 width: '100%',
-                maxWidth: '800px',
+                maxWidth: '1000px',
                 height: 'auto'
               }}
             />
