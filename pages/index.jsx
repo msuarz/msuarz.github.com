@@ -20,13 +20,13 @@ export default function Home() {
             />
             <div style={{
               position: 'absolute',
-              top: '50%',
-              left: '50%',
-              transform: 'translate(-50%, -60%)',
+              top: '45%',
+              left: '48%',
+              transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
-              width: '180px',
-              padding: '15px'
+              width: '120px',
+              padding: '10px'
             }}>
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>
                 Hi there, I'm Mike Suarez.
