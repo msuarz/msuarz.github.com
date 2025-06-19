@@ -25,7 +25,7 @@ export default function Home() {
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
-              width: '300px',
+              width: '68%',
               padding: '10px'
             }}>
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>
