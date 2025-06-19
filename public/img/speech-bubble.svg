@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="500px" version="1.1" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
       .bubble-text {
         font-family: Arial, sans-serif;
         font-size: 14px;
         text-anchor: middle;
-        dominant-baseline: middle;
+        dominant-baseline: central;
         fill: #333;
       }
       .bubble-title {
@@ -13,37 +14,24 @@
         font-size: 16px;
         font-weight: bold;
         text-anchor: middle;
-        dominant-baseline: middle;
+        dominant-baseline: central;
         fill: #333;
       }
     </style>
   </defs>
   
-  <!-- Main cloud bubble -->
-  <circle cx="140" cy="80" r="45" fill="white" stroke="#333" stroke-width="4"/>
-  <circle cx="200" cy="70" r="50" fill="white" stroke="#333" stroke-width="4"/>
-  <circle cx="260" cy="80" r="45" fill="white" stroke="#333" stroke-width="4"/>
-  <circle cx="170" cy="120" r="40" fill="white" stroke="#333" stroke-width="4"/>
-  <circle cx="230" cy="120" r="40" fill="white" stroke="#333" stroke-width="4"/>
-  <circle cx="200" cy="100" r="35" fill="white" stroke="#333" stroke-width="4"/>
-  
-  <!-- Small bubble -->
-  <circle cx="110" cy="210" r="15" fill="white" stroke="#333" stroke-width="4"/>
-  
-  <!-- Medium bubble -->
-  <circle cx="80" cy="240" r="20" fill="white" stroke="#333" stroke-width="4"/>
-  
-  <!-- Large bubble -->
-  <circle cx="50" cy="270" r="12" fill="white" stroke="#333" stroke-width="4"/>
+  <ellipse cx="250" cy="200" fill="white" rx="165" ry="110" stroke="black" stroke-width="4" />
+  <circle cx="180" cy="330" fill="white" r="20" stroke="black" stroke-width="4" />
+  <circle cx="140" cy="380" fill="white" r="12" stroke="black" stroke-width="4" />
+  <circle cx="110" cy="420" fill="white" r="7" stroke="black" stroke-width="4" />
   
   <!-- Text content -->
-  <text x="200" y="70" class="bubble-title">Hi there, I'm Mike Suarez.</text>
+  <text x="250" y="145" class="bubble-title">Hi there, I'm Mike Suarez.</text>
   
-  <text x="200" y="95" class="bubble-text">This is my personal website, it is a</text>
-  <text x="200" y="110" class="bubble-text">collection of things I like. Which, in a</text>
-  <text x="200" y="125" class="bubble-text">way, should give an idea of whom I am.</text>
+  <text x="250" y="170" class="bubble-text">This is my personal website, it is a collection</text>
+  <text x="250" y="185" class="bubble-text">of things I like. Which, in a way, should</text>
+  <text x="250" y="200" class="bubble-text">give an idea of whom I am.</text>
   
-  <text x="200" y="150" class="bubble-text">There's a lot of computer stuff since I</text>
-  <text x="200" y="165" class="bubble-text">consider myself a natural born</text>
-  <text x="200" y="180" class="bubble-text">programmer.</text>
+  <text x="250" y="225" class="bubble-text">There's a lot of computer stuff since I</text>
+  <text x="250" y="240" class="bubble-text">consider myself a natural born programmer.</text>
 </svg>
