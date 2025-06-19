@@ -21,11 +21,11 @@ export default function Home() {
             <div style={{
               position: 'absolute',
               top: 'calc(50% - 50px)',
-              left: 'calc(50% + 30px)',
+              left: 'calc(50% + 50px)',
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
-              width: '80%'
+              width: '300px'
             }}>
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>
                 Hi there, I'm Mike Suarez.
