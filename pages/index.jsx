@@ -18,16 +18,7 @@ export default function Home() {
                 height: 'auto'
               }}
             />
-            <div style={{
-              position: 'absolute',
-              top: '42%',
-              left: '30%',
-              transform: 'translate(-50%, -50%)',
-              zIndex: 10,
-              textAlign: 'center',
-              width: '260px',
-              padding: '10px'
-            }}>
+            <div className="speech-bubble-text">
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>
                 Hi there, I'm Mike Suarez.
               </p>

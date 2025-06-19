@@ -10,3 +10,16 @@ code {
     vertical-align: middle;
     padding: 0;
 }
+
+.speech-bubble-text {
+    position: absolute;
+    top: 42%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    text-align: center;
+    width: 18vw;
+    min-width: 220px;
+    max-width: 280px;
+    padding: 0.5vw;
+}
