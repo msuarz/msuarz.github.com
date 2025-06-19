@@ -9,7 +9,7 @@ export default function Home() {
           <img style={{ float: 'left', marginTop: '100px' }} src="img/minime.png" />
         </div>
         <div className="col-8">
-          <div style={{ position: 'relative' }}>
+          <div style={{ position: 'relative', marginTop: '-100px' }}>
             <img 
               src="/img/cloud9.png" 
               alt="thought cloud"
