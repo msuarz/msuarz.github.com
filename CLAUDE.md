@@ -1,2 +1,3 @@
 - NEVER use TypeScript
 - NEVER use Python for anything at all!!!
+- NEVER go back to a solution the user has already rejected or said they don't like
