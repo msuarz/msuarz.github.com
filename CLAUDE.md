@@ -1,0 +1,2 @@
+- NEVER use TypeScript
+- NEVER use Python for anything at all!!!
