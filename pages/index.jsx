@@ -21,8 +21,10 @@ export default function Home() {
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
-              width: '260px',
-              padding: '10px'
+              width: '59%',
+              maxWidth: '280px',
+              minWidth: '200px',
+              padding: '8px'
             }}>
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>
                 Hi there, I'm Mike Suarez.
