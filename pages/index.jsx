@@ -9,14 +9,10 @@ export default function Home() {
           <img style={{ float: 'left', marginTop: '100px', transform: 'scale(1.2)' }} src="img/minime.png" />
         </div>
         <div className="col-8">
-          <div style={{ position: 'relative', marginTop: '-70px' }}>
+          <div className="speech-bubble-container">
             <img 
               src="/img/cloud9.png" 
               alt="thought cloud"
-              style={{
-                width: '441px',
-                height: 'auto'
-              }}
             />
             <div className="speech-bubble-text">
               <p style={{ margin: '0 0 15px 0', fontWeight: 'bold', fontSize: '16px' }}>

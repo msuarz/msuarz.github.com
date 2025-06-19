@@ -11,6 +11,17 @@ code {
     padding: 0;
 }
 
+.speech-bubble-container {
+    position: relative;
+    margin-top: -70px;
+}
+
+.speech-bubble-container img {
+    width: 441px;
+    max-width: 100%;
+    height: auto;
+}
+
 .speech-bubble-text {
     position: absolute;
     top: 42%;
@@ -18,8 +29,19 @@ code {
     transform: translate(-50%, -50%);
     z-index: 10;
     text-align: center;
-    width: 18vw;
-    min-width: 220px;
-    max-width: 280px;
-    padding: 0.5vw;
+    width: 60%;
+    padding: 2%;
+}
+
+@media (max-width: 768px) {
+    .speech-bubble-text {
+        width: 55%;
+        font-size: 0.9em;
+    }
+}
+
+@media (min-width: 1200px) {
+    .speech-bubble-text {
+        width: 65%;
+    }
 }
