@@ -20,8 +20,8 @@ export default function Home() {
             />
             <div style={{
               position: 'absolute',
-              top: '50%',
-              left: '50%',
+              top: 'calc(50% - 50px)',
+              left: 'calc(50% + 30px)',
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
