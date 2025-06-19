@@ -20,7 +20,7 @@ export default function Home() {
             />
             <div style={{
               position: 'absolute',
-              top: '45%',
+              top: 'calc(45% - 10px)',
               left: '30%',
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
