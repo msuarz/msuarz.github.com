@@ -11,7 +11,7 @@ export default function Home() {
         <div className="col-8">
           <div style={{
             backgroundImage: 'url(/img/cloud9.png)',
-            backgroundSize: 'cover',
+            backgroundSize: 'contain',
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
             padding: '60px 40px',
