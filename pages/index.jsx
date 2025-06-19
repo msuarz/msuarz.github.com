@@ -6,7 +6,7 @@ export default function Home() {
       <br />
       <div className="row">
         <div className="col-3">
-          <img style={{ float: 'left', marginTop: '300px' }} src="img/minime.png" />
+          <img style={{ float: 'left', marginTop: '100px' }} src="img/minime.png" />
         </div>
         <div className="col-8">
           <div style={{ position: 'relative' }}>
