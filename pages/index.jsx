@@ -14,7 +14,7 @@ export default function Home() {
               src="/img/cloud9.png" 
               alt="thought cloud"
               style={{
-                width: '500px',
+                width: '350px',
                 height: 'auto'
               }}
             />
