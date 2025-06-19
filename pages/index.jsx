@@ -32,9 +32,7 @@ export default function Home() {
               </p>
               
               <p style={{ margin: '0 0 15px 0', fontSize: '14px', lineHeight: '1.4' }}>
-                This is my personal website, it is a collection of things I like.
-                <br/>
-                Which, in a way, should give an idea of whom I am.
+                This is my personal website, it is a collection of things I like. Which, in a way, should give an idea of whom I am.
               </p>
 
               <p style={{ margin: '0', fontSize: '14px', lineHeight: '1.4' }}>
