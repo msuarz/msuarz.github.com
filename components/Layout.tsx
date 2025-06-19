@@ -15,11 +15,13 @@ export default function Layout({ children, title = 'msuarz' }: LayoutProps) {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
         <link href="/css/msuarz.css" rel="stylesheet" />
-        <style jsx global>{`
-          body {
-            padding-top: 80px;
-          }
-        `}</style>
+        <style dangerouslySetInnerHTML={{
+          __html: `
+            body {
+              padding-top: 80px !important;
+            }
+          `
+        }} />
       </Head>
       
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
