@@ -21,7 +21,7 @@ export default function Home() {
             <div style={{
               position: 'absolute',
               top: 'calc(50% - 50px)',
-              left: 'calc(50% - 150px)',
+              left: 'calc(50% - 120px)',
               transform: 'translate(-50%, -50%)',
               zIndex: 10,
               textAlign: 'center',
