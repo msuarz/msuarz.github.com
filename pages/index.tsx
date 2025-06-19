@@ -11,7 +11,7 @@ export default function Home() {
         <div className="col-8">
           <div className="position-relative" style={{ marginTop: '20px' }}>
             <img 
-              src="/img/thought-cloud.png" 
+              src="/img/cloud.webp" 
               alt="thought cloud"
               style={{
                 width: '100%',
